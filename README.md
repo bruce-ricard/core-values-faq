@@ -8,6 +8,7 @@ Keep in mind, we have intentionally omitted the answers to these questions.
 
 ### Pairing
 * Why do we pair? Why is it valuable to the team? Why is it valuable to me?
+* Do we have to pair every single day?
 * Why do we rotate so frequently?
 * How do I leave feedback for my pair?
 * What kind of feedback can and should I leave for my pair? What does "TASK" mean?

@@ -32,6 +32,9 @@ questions.
 * When should I drive? When should I navigate?
 * What should I do if my pair is driving too much? Not enough?
 * How can I stay engaged if my pair is moving too quickly?
+* When can we work on chores? Can I pick up a chore from the backlog
+  if I think it needs to be done? Do I have to wait for my anchor
+  to prioritize it?
 * How quickly should I be ramping up?
 * How do I know I'm completely ramped up?
 

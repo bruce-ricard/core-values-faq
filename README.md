@@ -3,6 +3,9 @@ Working in an environment like Cloud Foundry with agile development, pair progra
 
 Keep in mind, we have intentionally omitted the answers to these questions.
 
+### Meta
+* Am I allowed to contribute to this FAQ? Can I share my own ideas?
+
 ### Pairing
 * Why do we pair? Why is it valuable to the team? Why is it valuable to me?
 * Why do we rotate so frequently?

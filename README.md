@@ -28,6 +28,7 @@ questions.
   "TASK" mean?
 * Should newer team members only pair with experienced team members?
   Why?
+* What is strong-style pairing? Do we have to do it?
 * When should I drive? When should I navigate?
 * What should I do if my pair is driving too much? Not enough?
 * How can I stay engaged if my pair is moving too quickly?
